@@ -12,7 +12,7 @@ It’s a free-to-use dbt™ package that generates and executes the ETL you need
 Alongside dbtvault, we offer a range of services to help you take control of your data. We help businesses globally to:
 
 - Easily migrate and modernise their data platform
-- Barebones QuickStart
+- Bare-bones QuickStart
 - Learn Data Vault 2.0™
 - Achieve results quickly
 
