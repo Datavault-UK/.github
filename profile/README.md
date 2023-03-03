@@ -22,6 +22,7 @@ Alongside dbtvault, we offer a range of services to help you take control of you
 
 ### Social Media
 <div align="center">
+    <a href="https://www.data-vault.com"><img src="images/datavault_cube.png" width="96" alt="Datavault Cube"></a>
     <a href="https://www.linkedin.com/company/business-thinking-limited/"><img src="images/icons/LinkedIN.png" width="96" alt="LinkedIn"></a>
     <a href="https://twitter.com/DataVault_UK"><img src="images/icons/Twitter.png" width="96" alt="Twitter"></a>
     <a href="https://www.youtube.com/@Datavault"><img src="images/icons/Youtube.png" width="96"alt="YouTube"></a>
