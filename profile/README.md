@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="./datavault_logo.png" alt="Datavault Logo">
+    <img src="images/datavault_logo.png" alt="Datavault Logo">
 </div>
 
 ### Welcome to Datavault – the founders of the original Data Vault automation tool using dbt™, dbtvault.
@@ -22,9 +22,9 @@ Alongside dbtvault, we offer a range of services to help you take control of you
 
 ### Social Media
 <div align="center">
-    <a href="https://www.linkedin.com/company/business-thinking-limited/"><img src="./icons/LinkedIN.png" width="96" alt="LinkedIn"></a>
-    <a href="https://twitter.com/DataVault_UK"><img src="./icons/Twitter.png" width="96" alt="Twitter"></a>
-    <a href="https://www.youtube.com/@Datavault"><img src="./icons/Youtube.png" width="96"alt="YouTube"></a>
+    <a href="https://www.linkedin.com/company/business-thinking-limited/"><img src="images/icons/LinkedIN.png" width="96" alt="LinkedIn"></a>
+    <a href="https://twitter.com/DataVault_UK"><img src="images/icons/Twitter.png" width="96" alt="Twitter"></a>
+    <a href="https://www.youtube.com/@Datavault"><img src="images/icons/Youtube.png" width="96"alt="YouTube"></a>
 </div>
                             
 
