@@ -6,11 +6,11 @@
 ### Welcome to Datavault – the creators of the original Data Vault automation tool using dbt™, AutomateDV (formerly known as dbtvault).
 
 Our mission is to provide businesses with the tools they need to manage their data with ease and efficiency using Data Vault 2.0™. 
-Our Data Vault automation tool, dbtvault, is the original Data Vault tool using the dbt™ infrastructure.
+Our Data Vault automation tool, AutomateDV, is the original Data Vault tool built for the dbt™ ecosystem.
 
 It’s a free-to-use dbt™ package that generates and executes the ETL you need to run a Data Vault 2.0™ Data Warehouse on your data platform.
 
-Alongside dbtvault, we offer a range of services to help you take control of your data. We help businesses globally to:
+Alongside AutomateDV, we offer a range of services to help you take control of your data. We help businesses globally to:
 
 - Easily migrate and modernise their data platform
 - Bare-bones QuickStart
