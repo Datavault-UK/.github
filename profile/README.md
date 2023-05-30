@@ -1,5 +1,6 @@
 <div align="center">
-    <img src="/images/datavault_logo.png" alt="Datavault Logo">
+    <img src="/images/datavault_logo_black.png#gh-light-mode-only" alt="Datavault Logo">
+    <img src="/images/datavault_logo_white.png#gh-dark-mode-only" alt="Datavault Logo">
 </div>
 
 ### Welcome to Datavault – the creators of the original Data Vault automation tool using dbt™, AutomateDV.
