@@ -2,7 +2,7 @@
     <img src="/images/datavault_logo.png" alt="Datavault Logo">
 </div>
 
-### Welcome to Datavault – the creators of the original Data Vault automation tool using dbt™, dbtvault.
+### Welcome to Datavault – the creators of the original Data Vault automation tool using dbt™, AutomateDV.
 
 Our mission is to provide businesses with the tools they need to manage their data with ease and efficiency using Data Vault 2.0™. 
 Our Data Vault automation tool, dbtvault, is the original Data Vault tool using the dbt™ infrastructure.
