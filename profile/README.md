@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://www.business-thinking.com">
-    <img src="images/business-thinking-logo-2025-transparent.png" alt="Business Thinking Logo" width="320">
+    <img src="images/transparent-2025-Business-Thinking-Logo.png" alt="Business Thinking Logo" width="320">
   </a>
 </div>
 
